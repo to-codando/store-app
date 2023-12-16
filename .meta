@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "apps/app-signin": "git@github.com:to-codando/signin-app.git",
+    "apps/app-login": "git@github.com:to-codando/login-app.git",
+    "apps/app-account": "git@github.com:to-codando/account-app.git",
+    "apps/auth-service-app": "git@github.com:to-codando/auth-service-app.git"
+  }
+}
